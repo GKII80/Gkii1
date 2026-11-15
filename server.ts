@@ -1791,11 +1791,10 @@ function broadcastUpdate(reason: string): void {
   }
 }
 
-async function startServer() {
-  fs.mkdirSync(UPLOADS_DIR, { recursive: true });
-  const app = express();
-  app.use(express.json({ limit: '15mb' }));
-  app.use('/uploads', express.static(UPLOADS_DIR));
+fs.mkdirSync(UPLOADS_DIR, { recursive: true });
+const app = express();
+app.use(express.json({ limit: '15mb' }));
+app.use('/uploads', express.static(UPLOADS_DIR));
 
   app.get('/api/health', (_req, res) => {
     res.json({ ok: true, church: 'GKII Jemaat Sungai Barang' });
@@ -2925,7 +2924,7 @@ async function startServer() {
     res.json({ ok: true });
   });
 
-  const isProd = process.env.NODE_ENV === 'production';
+  const isProd = process.env.NODE_ENV === 'production' || process.env.VERCEL || Boolean(process.env.PORT);
   if (!isProd) {
     // Serve a clean no-WebSocket @vite/client module because HMR is disabled in AI Studio preview
     app.get('/@vite/client', (_req, res) => {
@@ -2974,25 +2973,44 @@ class ErrorOverlay {}
 export { ErrorOverlay, createHotContext, injectQuery, removeStyle, updateStyle };
 `);
     });
-
-    const { createServer: createViteServer } = await import('vite');
-    const vite = await createViteServer({
-      server: { middlewareMode: true, hmr: false, ws: false },
-      appType: 'spa',
-    });
-    app.use(vite.middlewares);
-  } else {
-    const distPath = path.join(__dirname, 'dist');
-    app.use(express.static(distPath));
-    app.get('*', (_req, res) => {
-      res.sendFile(path.join(distPath, 'index.html'));
-    });
   }
 
-  const PORT = 3000;
-  app.listen(PORT, '0.0.0.0', () => {
-    console.log(`Server GKII Jemaat Sungai Barang berjalan di port ${PORT}`);
-  });
-}
+  const PORT = process.env.PORT ? parseInt(process.env.PORT, 10) : 3000;
 
-startServer();
+  if (isProd) {
+    const distPath = path.join(__dirname, 'dist');
+    if (fs.existsSync(distPath)) {
+      app.use(express.static(distPath));
+      app.get('*', (req, res, next) => {
+        if (req.path.startsWith('/api')) {
+          return next();
+        }
+        res.sendFile(path.join(distPath, 'index.html'));
+      });
+    } else {
+      app.get('/', (_req, res) => {
+        res.send('GKII Jemaat Sungai Barang Server');
+      });
+    }
+  }
+
+  if (!process.env.VERCEL) {
+    if (isProd) {
+      app.listen(PORT, '0.0.0.0', () => {
+        console.log(`Server GKII Jemaat Sungai Barang berjalan di port ${PORT}`);
+      });
+    } else {
+      import('vite').then(async ({ createServer: createViteServer }) => {
+        const vite = await createViteServer({
+          server: { middlewareMode: true, hmr: false, ws: false },
+          appType: 'spa',
+        });
+        app.use(vite.middlewares);
+        app.listen(PORT, '0.0.0.0', () => {
+          console.log(`Server GKII Jemaat Sungai Barang berjalan di port ${PORT}`);
+        });
+      });
+    }
+  }
+
+export default app;
