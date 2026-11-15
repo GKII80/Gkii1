@@ -1,0 +1,8 @@
+{
+  "name": "GKII Jemaat Sungai Barang",
+  "description": "Sistem Informasi & Portal Pelayanan Gereja Kemah Injil Indonesia (GKII) Jemaat Sungai Barang: jadwal ibadah, warta gereja, doa harian, kas jemaat, data jemaat & HUT real-time, badan pengurus, kepanitiaan, grafik pertumbuhan, dan renungan harian.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

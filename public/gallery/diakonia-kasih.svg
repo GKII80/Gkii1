@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Dokumentasi Pelayanan Diakonia dan Perkunjungan Kasih Jemaat Sungai Barang">
+  <rect width="800" height="600" fill="#EAF3EC"/>
+  <!-- Rolling Kalimantan hills -->
+  <path d="M0 390 Q200 320 430 370 T800 340 L800 600 L0 600 Z" fill="#C7DFCE"/>
+  <path d="M0 440 Q260 395 520 435 T800 415 L800 600 L0 600 Z" fill="#A7CEB3"/>
+  <!-- Community home -->
+  <polygon points="110,275 230,190 350,275" fill="#146C43"/>
+  <rect x="135" y="275" width="190" height="135" fill="#FFFFFF" stroke="#B8D4C1" stroke-width="3"/>
+  <rect x="195" y="325" width="52" height="85" rx="4" fill="#0F5132"/>
+  <rect x="266" y="305" width="38" height="38" rx="4" fill="#DCECE1" stroke="#146C43" stroke-width="2"/>
+  <!-- Diakonia team & parcels -->
+  <circle cx="450" cy="325" r="26" fill="#0F5132"/>
+  <path d="M404 445 C404 375 496 375 496 445 Z" fill="#146C43"/>
+  <circle cx="555" cy="332" r="25" fill="#198754"/>
+  <path d="M512 445 C512 380 598 380 598 445 Z" fill="#198754"/>
+  <!-- Aid basket / packages -->
+  <rect x="342" y="392" width="58" height="44" rx="6" fill="#B45309"/>
+  <rect x="336" y="384" width="70" height="12" rx="3" fill="#D97706"/>
+  <rect x="366" y="384" width="10" height="52" fill="#FEF3C7"/>
+  <!-- Heart emblem above community -->
+  <path d="M498 205 C498 185 470 175 456 192 C442 175 414 185 414 205 C414 232 456 260 456 260 C456 260 498 232 498 205 Z" fill="#146C43" opacity="0.22"/>
+</svg>

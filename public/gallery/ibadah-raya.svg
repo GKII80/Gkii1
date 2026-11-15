@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Dokumentasi Ibadah Raya Minggu Pagi GKII Jemaat Sungai Barang">
+  <defs>
+    <linearGradient id="bgSky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#EAF3EC"/>
+      <stop offset="100%" stop-color="#F5F9F6"/>
+    </linearGradient>
+    <linearGradient id="sunBeam" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#DCECE1" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bgSky)"/>
+  <!-- Warm stained-glass arch window backdrop -->
+  <path d="M250 470 V215 A150 150 0 0 1 550 215 V470 Z" fill="#FFFFFF" stroke="#B8D4C1" stroke-width="4"/>
+  <path d="M272 470 V220 A128 128 0 0 1 528 220 V470 Z" fill="url(#sunBeam)"/>
+  <!-- Light rays -->
+  <polygon points="400,115 240,510 560,510" fill="#D4E4D8" opacity="0.35"/>
+  <!-- Cross at altar -->
+  <rect x="392" y="140" width="16" height="96" rx="4" fill="#146C43"/>
+  <rect x="366" y="168" width="68" height="15" rx="4" fill="#146C43"/>
+  <!-- Pulpit / Mimbar -->
+  <rect x="356" y="305" width="88" height="72" rx="6" fill="#0F5132"/>
+  <rect x="344" y="295" width="112" height="16" rx="4" fill="#146C43"/>
+  <rect x="386" y="287" width="28" height="8" rx="2" fill="#FFFFFF" opacity="0.85"/>
+  <!-- Sanctuary floor -->
+  <rect x="0" y="455" width="800" height="145" fill="#DCECE1"/>
+  <!-- Congregation rows -->
+  <g fill="#198754" opacity="0.9">
+    <circle cx="170" cy="400" r="18"/><path d="M142 465 C142 435 198 435 198 465 Z"/>
+    <circle cx="240" cy="405" r="18"/><path d="M212 465 C212 435 268 435 268 465 Z"/>
+    <circle cx="310" cy="410" r="17"/><path d="M284 465 C284 438 336 438 336 465 Z"/>
+    <circle cx="490" cy="410" r="17"/><path d="M464 465 C464 438 516 438 516 465 Z"/>
+    <circle cx="560" cy="405" r="18"/><path d="M532 465 C532 435 588 435 588 465 Z"/>
+    <circle cx="630" cy="400" r="18"/><path d="M602 465 C602 435 658 435 658 465 Z"/>
+  </g>
+  <g fill="#0F5132">
+    <circle cx="130" cy="442" r="21"/><path d="M96 530 C96 490 164 490 164 530 Z"/>
+    <circle cx="205" cy="446" r="21"/><path d="M171 530 C171 490 239 490 239 530 Z"/>
+    <circle cx="280" cy="448" r="21"/><path d="M246 530 C246 490 314 490 314 530 Z"/>
+    <circle cx="520" cy="448" r="21"/><path d="M486 530 C486 490 554 490 554 530 Z"/>
+    <circle cx="595" cy="446" r="21"/><path d="M561 530 C561 490 629 490 629 530 Z"/>
+    <circle cx="670" cy="442" r="21"/><path d="M636 530 C636 490 704 490 704 530 Z"/>
+  </g>
+  <!-- Botanical altar plants -->
+  <ellipse cx="290" cy="360" rx="22" ry="38" fill="#146C43" opacity="0.85"/>
+  <ellipse cx="510" cy="360" rx="22" ry="38" fill="#146C43" opacity="0.85"/>
+  <rect x="276" y="390" width="28" height="24" rx="4" fill="#456051"/>
+  <rect x="496" y="390" width="28" height="24" rx="4" fill="#456051"/>
+</svg>

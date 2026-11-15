@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Dokumentasi Kerja Bakti dan Gotong Royong Jemaat Sungai Barang">
+  <rect width="800" height="600" fill="#F5F9F6"/>
+  <path d="M0 430 Q220 390 460 420 T800 400 L800 600 L0 600 Z" fill="#DCECE1"/>
+  <!-- Church yard & building side view -->
+  <polygon points="180,220 400,115 620,220" fill="#146C43"/>
+  <rect x="215" y="220" width="370" height="190" fill="#FFFFFF" stroke="#B8D4C1" stroke-width="3"/>
+  <rect x="394" y="62" width="12" height="56" rx="2" fill="#0F5132"/>
+  <rect x="378" y="78" width="44" height="11" rx="2" fill="#0F5132"/>
+  <rect x="265" y="265" width="48" height="75" rx="24" fill="#EAF3EC" stroke="#146C43" stroke-width="2"/>
+  <rect x="487" y="265" width="48" height="75" rx="24" fill="#EAF3EC" stroke="#146C43" stroke-width="2"/>
+  <path d="M368 410 V310 A32 32 0 0 1 432 310 V410 Z" fill="#146C43"/>
+  <!-- Trees planted around yard -->
+  <ellipse cx="115" cy="315" rx="48" ry="68" fill="#146C43"/>
+  <rect x="108" y="370" width="14" height="58" fill="#78350F"/>
+  <ellipse cx="685" cy="325" rx="46" ry="64" fill="#198754"/>
+  <rect x="678" y="375" width="14" height="55" fill="#78350F"/>
+  <!-- Congregation working together in foreground -->
+  <g fill="#0F5132">
+    <circle cx="240" cy="395" r="22"/><path d="M206 490 C206 435 274 435 274 490 Z"/>
+    <circle cx="345" cy="402" r="22"/><path d="M311 495 C311 440 379 440 379 495 Z"/>
+    <circle cx="465" cy="402" r="22"/><path d="M431 495 C431 440 499 440 499 495 Z"/>
+    <circle cx="565" cy="395" r="22"/><path d="M531 490 C531 435 599 435 599 490 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,1267 @@
+{
+  "visionMission": {
+    "period": "2024 – 2028",
+    "vision": "Menjadi Jemaat Kemah Injil yang dewasa dalam iman, teguh dalam kasih persaudaraan, dan berdampak bagi masyarakat Sungai Barang serta misi penginjilan.",
+    "missions": [
+      "Membangun kehidupan ibadah dan doa jemaat yang hidup, alkitabiah, dan berpusat pada Kristus.",
+      "Memperlengkapi keluarga, anak Sekolah Minggu, pemuda, Perkawan, Perkaria, dan lansia melalui pemuridan yang berkelanjutan.",
+      "Mewujudkan pelayanan kasih dan diakonia yang nyata bagi jemaat dan warga sekitar Desa Sungai Barang.",
+      "Mengelola organisasi, kepanitiaan, dan keuangan gereja secara tertib, jujur, dan transparan demi kemuliaan Tuhan."
+    ],
+    "themeVerseRef": "Kolose 2:7",
+    "themeVerseText": "Hendaklah kamu berakar di dalam Dia dan dibangun di atas Dia, hendaklah kamu bertambah teguh dalam iman yang telah diajarkan kepadamu, dan hendaklah hatimu melimpah dengan syukur."
+  },
+  "schedules": [
+    {
+      "id": "sch-1",
+      "title": "Ibadah Raya Minggu Pagi",
+      "organ": "Umum / Raya",
+      "dayOfWeek": "Minggu",
+      "time": "09:00 WIB",
+      "location": "Gedung Gereja Utama GKII Sungai Barang",
+      "speaker": "Pdt. Lukas H. Bangun, M.Th.",
+      "theme": "Berakar, Bertumbuh, dan Berbuah dalam Kasih Kristus",
+      "notes": "Disertai Perjamuan Kudus pada Minggu Pertama setiap bulan.",
+      "mcName": "Sdr. Daniel Putra, S.Kom.",
+      "offeringCollectors": "Ibu Martha Simanjuntak & Bpk. Yohanes Kiding",
+      "intercessoryPrayerLeader": "Bpk. Andreas Lawing"
+    },
+    {
+      "id": "sch-2",
+      "title": "Ibadah Sekolah Minggu & Tunas",
+      "organ": "Sekolah Minggu",
+      "dayOfWeek": "Minggu",
+      "time": "07:30 WIB",
+      "location": "Ruang Pelayanan Anak Sungai Barang",
+      "speaker": "Kak Ester L. & Tim Guru SM",
+      "theme": "Yesus Sahabat Terbaik Anak-Anak",
+      "notes": "Dibagi menjadi Kelas Balita, Pratama, dan Madya.",
+      "mcName": "Sdri. Gabriela Tika",
+      "offeringCollectors": "Adik Clara Jelita & Tim Tunas",
+      "intercessoryPrayerLeader": "Kak Ester L."
+    },
+    {
+      "id": "sch-3",
+      "title": "Persekutuan Pemuda & Remaja (PERKARYA)",
+      "organ": "Pemuda & Remaja",
+      "dayOfWeek": "Sabtu",
+      "time": "17:00 WIB",
+      "location": "Aula Serbaguna GKII Sungai Barang",
+      "speaker": "Sdr. Daniel Putra, S.Kom.",
+      "theme": "Menjadi Terang di Era Digital",
+      "notes": "Dilanjutkan latihan musik pujian bagi tim pelayanan pemuda.",
+      "mcName": "Sdri. Gabriela Tika",
+      "offeringCollectors": "Sdr. Kevin Apui & Adik Clara Jelita",
+      "intercessoryPrayerLeader": "Sdri. Gabriela Tika"
+    },
+    {
+      "id": "sch-4",
+      "title": "Ibadah Kaum Wanita (PERKAWAN)",
+      "organ": "Perkawan",
+      "dayOfWeek": "Kamis",
+      "time": "16:00 WIB",
+      "location": "Gedung Gereja Utama / Bergilir Rumah Jemaat",
+      "speaker": "Ibu Martha Simanjuntak",
+      "theme": "Perempuan yang Takut Akan Tuhan",
+      "notes": "Membawa Alkitab dan Kidung Kemah Injil.",
+      "mcName": "Ibu Maria Bilung",
+      "offeringCollectors": "Ibu Dina Lenjau & Ibu Ruth Marbun",
+      "intercessoryPrayerLeader": "Ibu Dina Lenjau"
+    },
+    {
+      "id": "sch-5",
+      "title": "Ibadah Kaum Pria (PERKARIA)",
+      "organ": "Perkaria",
+      "dayOfWeek": "Jumat",
+      "time": "19:00 WIB",
+      "location": "Aula Serbaguna GKII Sungai Barang",
+      "speaker": "Bpk. Yohanes Kiding",
+      "theme": "Imam dalam Keluarga dan Teladan di Masyarakat",
+      "mcName": "Bpk. Andreas Lawing",
+      "offeringCollectors": "Bpk. Samuel Marbun & Bpk. Markus Lawai",
+      "intercessoryPrayerLeader": "Bpk. Yohanes Kiding"
+    },
+    {
+      "id": "sch-6",
+      "title": "Ibadah Doa Syafaat & Persekutuan Sektor",
+      "organ": "Doa & Sektor",
+      "dayOfWeek": "Rabu",
+      "time": "19:00 WIB",
+      "location": "Rumah Keluarga Jemaat (Sektor I – IV)",
+      "speaker": "Majelis & Penatua Sektor",
+      "theme": "Doa yang Kuat Menggerakkan Pelayanan",
+      "mcName": "Ibu Martha Simanjuntak",
+      "offeringCollectors": "Tuan Rumah & Diaken Sektor",
+      "intercessoryPrayerLeader": "Pdt. Lukas H. Bangun, M.Th."
+    },
+    {
+      "id": "sch-7",
+      "title": "Persekutuan Lanjut Usia (Lansia)",
+      "organ": "Lansia",
+      "dayOfWeek": "Selasa",
+      "time": "09:30 WIB",
+      "location": "Ruang Konsistori & Taman Gereja",
+      "speaker": "Pdt. Lukas H. Bangun, M.Th.",
+      "theme": "Masa Tua yang Tetap Berbuah Lebat (Mazmur 92:15)",
+      "notes": "Tersedia pemeriksaan tekanan darah ringan & ramah tamah sehat.",
+      "mcName": "Oma Naomi Lawai",
+      "offeringCollectors": "Ibu Ruth Marbun & Ibu Maria Bilung",
+      "intercessoryPrayerLeader": "Opa Petrus Ubung"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "ann-1",
+      "title": "Persiapan Perayaan Natal Jemaat Sungai Barang",
+      "date": "2026-11-14",
+      "category": "Kegiatan Gereja",
+      "summary": "Undangan rapat koordinasi seluruh seksi kepanitiaan Natal dan jadwal latihan paduan suara gabungan.",
+      "content": "Kepada seluruh anggota panitia dan pelayan musik GKII Jemaat Sungai Barang, diharapkan hadir dalam rapat koordinasi persiapan Natal jemaat. Latihan paduan suara gabungan Perkawan, Perkaria, dan Pemuda diadakan setiap hari Sabtu pukul 19:30 WIB di gedung gereja utama.",
+      "author": "Sekretariat BPJ"
+    },
+    {
+      "id": "ann-2",
+      "title": "Bakti Sosial Kesehatan & Kunjungan Diakonia Lansia",
+      "date": "2026-11-11",
+      "category": "Pelayanan",
+      "summary": "Tim Diakonia akan melaksanakan kunjungan kasih dan pembagian paket sembako ke rumah jemaat lansia di Sektor I–IV.",
+      "content": "Pelayanan Diakonia jemaat akan mengunjungi 14 keluarga lanjut usia dan jemaat yang sedang dalam pemulihan kesehatan. Jemaat yang tergerak mendukung pelayanan ini dapat menyalurkannya melalui kotak Diakonia setiap ibadah Minggu atau menghubungi Bendahara Jemaat.",
+      "author": "Seksi Diakonia"
+    },
+    {
+      "id": "ann-3",
+      "title": "Laporan Penerimaan Persembahan Ibadah Minggu Lalu",
+      "date": "2026-11-08",
+      "category": "Keuangan & Pembangunan",
+      "summary": "Rekapitulasi persembahan ibadah raya, sekolah minggu, persepuluhan, dan dana pemeliharaan gedung.",
+      "content": "Puji syukur kepada Tuhan atas kesetiaan jemaat dalam memberi. Total penerimaan pekan lalu telah dicatat dalam Buku Kas Jemaat dan dapat diperiksa secara transparan pada menu Kas & Pembukuan.",
+      "author": "Ibu Ruth Marbun (Bendahara)"
+    }
+  ],
+  "prayers": [
+    {
+      "id": "pry-1",
+      "title": "Kesehatan & Pemulihan Jemaat yang Sakit",
+      "category": "Jemaat Sakit & Pemulihan",
+      "verseRef": "Yeremia 30:17",
+      "verseText": "Sebab Aku akan mendatangkan kesembuhan bagimu, Aku akan mengobati luka-lukamu, demikianlah firman TUHAN.",
+      "guideSteps": [
+        "Doakan pemulihan fisik bagi Bpk. Petrus Ubung dan Ibu Naomi Lawai agar diberi kekuatan dari Tuhan.",
+        "Doakan ketabahan serta sukacita bagi keluarga yang setia mendampingi dan merawat.",
+        "Doakan hikmat bagi para dokter dan tenaga kesehatan yang menangani."
+      ],
+      "prayedCount": 28,
+      "date": "2026-11-14"
+    },
+    {
+      "id": "pry-2",
+      "title": "Pertumbuhan Iman Pemuda & Anak Sekolah Minggu",
+      "category": "Keluarga & Pemuda",
+      "verseRef": "1 Timotius 4:12",
+      "verseText": "Jangan seorangpun menganggap engkau rendah karena engkau muda. Jadilah teladan bagi orang-orang percaya.",
+      "guideSteps": [
+        "Doakan anak-anak dan remaja Sungai Barang agar memiliki hati yang takut akan Tuhan di tengah tantangan zaman.",
+        "Doakan para guru Sekolah Minggu dan pembina pemuda supaya terus diperlengkapi dengan kesabaran dan kasih.",
+        "Doakan studi, pekerjaan, dan masa depan generasi muda jemaat."
+      ],
+      "prayedCount": 19,
+      "date": "2026-11-14"
+    },
+    {
+      "id": "pry-3",
+      "title": "Pelayanan Misi Pedalaman & Kemah Injil",
+      "category": "Misi & Penginjilan",
+      "verseRef": "Matius 28:19",
+      "verseText": "Karena itu pergilah, jadikanlah semua bangsa murid-Ku dan baptislah mereka dalam nama Bapa dan Anak dan Roh Kudus.",
+      "guideSteps": [
+        "Doakan para penginjil dan pos pelayanan GKII di wilayah pedalaman agar dilindungi dalam perjalanan pelayanan.",
+        "Doakan kecukupan dana misi dan kebutuhan jemaat-jemaat rintisan."
+      ],
+      "prayedCount": 24,
+      "date": "2026-11-14"
+    },
+    {
+      "id": "pry-4",
+      "title": "Damai Sejahtera bagi Desa Sungai Barang & Bangsa Indonesia",
+      "category": "Bangsa & Negara",
+      "verseRef": "Yeremia 29:7",
+      "verseText": "Usahakanlah kesejahteraan kota ke mana kamu Aku buang, dan berdoalah untuk kota itu kepada TUHAN.",
+      "guideSteps": [
+        "Doakan kerukunan antarwarga di Sungai Barang, pemimpin desa, dan pemerintah daerah.",
+        "Doakan kelancaran panen, usaha pertanian, serta pekerjaan seluruh kepala keluarga jemaat."
+      ],
+      "prayedCount": 31,
+      "date": "2026-11-14"
+    }
+  ],
+  "ledger": [
+    {
+      "id": "led-h1",
+      "date": "2024-06-09",
+      "voucherNo": "KM-2024-045",
+      "description": "Persembahan Ibadah Raya & Persepuluhan Semester I",
+      "category": "Persembahan Ibadah",
+      "type": "masuk",
+      "amount": 42500000,
+      "recordedBy": "Ruth Marbun"
+    },
+    {
+      "id": "led-h2",
+      "date": "2024-06-22",
+      "voucherNo": "KK-2024-028",
+      "description": "Operasional Pelayanan & Pemeliharaan Gedung Ibadah 2024",
+      "category": "Operasional Gereja",
+      "type": "keluar",
+      "amount": 26800000,
+      "recordedBy": "Ruth Marbun"
+    },
+    {
+      "id": "led-h3",
+      "date": "2024-12-15",
+      "voucherNo": "KM-2024-098",
+      "description": "Persembahan Natal & Ucapan Syukur Akhir Tahun 2024",
+      "category": "Ucapan Syukur",
+      "type": "masuk",
+      "amount": 24300000,
+      "recordedBy": "Ruth Marbun"
+    },
+    {
+      "id": "led-h4",
+      "date": "2024-12-20",
+      "voucherNo": "KK-2024-077",
+      "description": "Bantuan Diakonia Natal & Dukungan Misi Daerah 2024",
+      "category": "Diakonia",
+      "type": "keluar",
+      "amount": 14900000,
+      "recordedBy": "Ruth Marbun"
+    },
+    {
+      "id": "led-h5",
+      "date": "2025-03-16",
+      "voucherNo": "KM-2025-022",
+      "description": "Persepuluhan & Persembahan Ibadah Triwulan I 2025",
+      "category": "Persepuluhan",
+      "type": "masuk",
+      "amount": 21400000,
+      "recordedBy": "Ruth Marbun"
+    },
+    {
+      "id": "led-h6",
+      "date": "2025-04-12",
+      "voucherNo": "KK-2025-019",
+      "description": "Perbaikan Sistem Audio & Kursi Ruang Ibadah 2025",
+      "category": "Operasional Gereja",
+      "type": "keluar",
+      "amount": 12600000,
+      "recordedBy": "Ruth Marbun"
+    },
+    {
+      "id": "led-h7",
+      "date": "2025-08-17",
+      "voucherNo": "KM-2025-064",
+      "description": "Kolekte Syukur Kemerdekaan & Pembangunan Gedung",
+      "category": "Pembangunan",
+      "type": "masuk",
+      "amount": 28900000,
+      "recordedBy": "Ruth Marbun"
+    },
+    {
+      "id": "led-h8",
+      "date": "2025-11-24",
+      "voucherNo": "KK-2025-058",
+      "description": "Dukungan Misi Pedalaman & Diakonia Keluarga Jemaat",
+      "category": "Misi & Penginjilan",
+      "type": "keluar",
+      "amount": 16400000,
+      "recordedBy": "Ruth Marbun"
+    },
+    {
+      "id": "led-h9",
+      "date": "2026-01-18",
+      "voucherNo": "KM-2026-004",
+      "description": "Persembahan Ibadah Awal Tahun & Persepuluhan Januari",
+      "category": "Persepuluhan",
+      "type": "masuk",
+      "amount": 16200000,
+      "recordedBy": "Ruth Marbun"
+    },
+    {
+      "id": "led-h10",
+      "date": "2026-01-25",
+      "voucherNo": "KK-2026-003",
+      "description": "Tagihan Listrik, Air & Perlengkapan Ibadah Januari",
+      "category": "Operasional Gereja",
+      "type": "keluar",
+      "amount": 4950000,
+      "recordedBy": "Ruth Marbun"
+    },
+    {
+      "id": "led-h11",
+      "date": "2026-03-08",
+      "voucherNo": "KM-2026-021",
+      "description": "Persembahan Ibadah Raya & Ucapan Syukur Panen",
+      "category": "Ucapan Syukur",
+      "type": "masuk",
+      "amount": 14800000,
+      "recordedBy": "Ruth Marbun"
+    },
+    {
+      "id": "led-h12",
+      "date": "2026-03-22",
+      "voucherNo": "KK-2026-014",
+      "description": "Pelayanan Paskah, Diakonia & Buku Sekolah Minggu",
+      "category": "Diakonia",
+      "type": "keluar",
+      "amount": 6200000,
+      "recordedBy": "Ruth Marbun"
+    },
+    {
+      "id": "led-h13",
+      "date": "2026-06-14",
+      "voucherNo": "KM-2026-052",
+      "description": "Persepuluhan Jemaat & Donasi Pemeliharaan Gereja Juni",
+      "category": "Persepuluhan",
+      "type": "masuk",
+      "amount": 17900000,
+      "recordedBy": "Ruth Marbun"
+    },
+    {
+      "id": "led-h14",
+      "date": "2026-06-24",
+      "voucherNo": "KK-2026-027",
+      "description": "Perawatan Genset, Sound System & Utilitas Semester I",
+      "category": "Operasional Gereja",
+      "type": "keluar",
+      "amount": 5800000,
+      "recordedBy": "Ruth Marbun"
+    },
+    {
+      "id": "led-h15",
+      "date": "2026-09-13",
+      "voucherNo": "KM-2026-079",
+      "description": "Persembahan Ibadah Raya & Misi Daerah September",
+      "category": "Persembahan Ibadah",
+      "type": "masuk",
+      "amount": 15400000,
+      "recordedBy": "Ruth Marbun"
+    },
+    {
+      "id": "led-h16",
+      "date": "2026-09-21",
+      "voucherNo": "KK-2026-035",
+      "description": "Bantuan Misi Pedalaman & Kunjungan Sektor Hulu",
+      "category": "Misi & Penginjilan",
+      "type": "keluar",
+      "amount": 6450000,
+      "recordedBy": "Ruth Marbun"
+    },
+    {
+      "id": "led-h17",
+      "date": "2026-10-11",
+      "voucherNo": "KM-2026-091",
+      "description": "Persembahan Ibadah Raya & Persepuluhan Oktober",
+      "category": "Persepuluhan",
+      "type": "masuk",
+      "amount": 16900000,
+      "recordedBy": "Ruth Marbun"
+    },
+    {
+      "id": "led-h18",
+      "date": "2026-10-19",
+      "voucherNo": "KK-2026-039",
+      "description": "Belanja Material Cat & Atap Awal Ruang Sekolah Minggu",
+      "category": "Pembangunan",
+      "type": "keluar",
+      "amount": 7150000,
+      "recordedBy": "Ruth Marbun"
+    },
+    {
+      "id": "led-1",
+      "date": "2026-11-01",
+      "voucherNo": "KM-2026-101",
+      "description": "Persembahan Ibadah Raya Minggu I Bulan Ini",
+      "category": "Persembahan Ibadah",
+      "type": "masuk",
+      "amount": 9500000,
+      "recordedBy": "Ruth Marbun"
+    },
+    {
+      "id": "led-2",
+      "date": "2026-11-03",
+      "voucherNo": "KM-2026-102",
+      "description": "Penerimaan Persepuluhan Jemaat (Amplop 01–18)",
+      "category": "Persepuluhan",
+      "type": "masuk",
+      "amount": 8750000,
+      "recordedBy": "Ruth Marbun",
+      "donorName": "Kel. Bpk. Yohanes Kiding & Keluarga Sektor I"
+    },
+    {
+      "id": "led-3",
+      "date": "2026-11-04",
+      "voucherNo": "KK-2026-041",
+      "description": "Pembayaran Listrik, Air & Pemeliharaan Sound System Gereja",
+      "category": "Operasional Gereja",
+      "type": "keluar",
+      "amount": 1850000,
+      "recordedBy": "Ruth Marbun"
+    },
+    {
+      "id": "led-4",
+      "date": "2026-11-06",
+      "voucherNo": "KK-2026-042",
+      "description": "Bantuan Diakonia Pengobatan & Paket Sembako Lansia",
+      "category": "Diakonia",
+      "type": "keluar",
+      "amount": 2400000,
+      "recordedBy": "Ruth Marbun"
+    },
+    {
+      "id": "led-5",
+      "date": "2026-11-08",
+      "voucherNo": "KM-2026-103",
+      "description": "Persembahan Ibadah Minggu II & Ucapan Syukur Keluarga",
+      "category": "Ucapan Syukur",
+      "type": "masuk",
+      "amount": 6350000,
+      "recordedBy": "Ruth Marbun",
+      "donorName": "Kel. Bpk. Andreas Lawing"
+    },
+    {
+      "id": "led-6",
+      "date": "2026-11-10",
+      "voucherNo": "KK-2026-043",
+      "description": "Dukungan Pos Misi Pedalaman & Pembelian Buku Sekolah Minggu",
+      "category": "Misi & Penginjilan",
+      "type": "keluar",
+      "amount": 3100000,
+      "recordedBy": "Ruth Marbun"
+    },
+    {
+      "id": "led-7",
+      "date": "2026-11-14",
+      "voucherNo": "KM-2026-104",
+      "description": "Donasi Dana Renovasi Atap & Pengecatan Ruang Anak",
+      "category": "Pembangunan",
+      "type": "masuk",
+      "amount": 5200000,
+      "recordedBy": "Ruth Marbun"
+    }
+  ],
+  "members": [
+    {
+      "id": "mem-1",
+      "fullName": "Bpk. Yohanes Kiding",
+      "gender": "L",
+      "birthDate": "1978-11-14",
+      "weddingDate": "2004-11-16",
+      "spouseName": "Ibu Maria Bilung",
+      "phone": "081254108811",
+      "sector": "Sektor I - Hilir",
+      "organ": "Perkaria",
+      "ageCategory": "Dewasa (31-59)",
+      "status": "Aktif",
+      "joinedYear": 2012,
+      "noKk": "6503041205120001",
+      "noNik": "6503041405780001",
+      "birthPlace": "Sungai Barang",
+      "familyRelationship": "Kepala Keluarga",
+      "baptismStatus": "Sudah Baptis"
+    },
+    {
+      "id": "mem-2",
+      "fullName": "Ibu Maria Bilung",
+      "gender": "P",
+      "birthDate": "1981-04-18",
+      "weddingDate": "2004-11-16",
+      "spouseName": "Bpk. Yohanes Kiding",
+      "phone": "081254108812",
+      "sector": "Sektor I - Hilir",
+      "organ": "Perkawan",
+      "ageCategory": "Dewasa (31-59)",
+      "status": "Aktif",
+      "joinedYear": 2012,
+      "noKk": "6503041205120001",
+      "noNik": "6503045804810002",
+      "birthPlace": "Long Nawang",
+      "familyRelationship": "Istri",
+      "baptismStatus": "Sudah Baptis"
+    },
+    {
+      "id": "mem-3",
+      "fullName": "Sdri. Gabriela Tika",
+      "gender": "P",
+      "birthDate": "2002-11-14",
+      "weddingDate": null,
+      "spouseName": null,
+      "phone": "085247889102",
+      "sector": "Sektor II - Tengah",
+      "organ": "Pemuda",
+      "ageCategory": "Pemuda (18-30)",
+      "status": "Aktif",
+      "joinedYear": 2018,
+      "noKk": "6503040809180004",
+      "noNik": "6503044505020003",
+      "birthPlace": "Sungai Barang",
+      "familyRelationship": "Anak",
+      "baptismStatus": "Sudah Baptis"
+    },
+    {
+      "id": "mem-4",
+      "fullName": "Bpk. Andreas Lawing",
+      "gender": "L",
+      "birthDate": "1974-09-12",
+      "weddingDate": "2001-11-14",
+      "spouseName": "Ibu Dina Lenjau",
+      "phone": "081347221904",
+      "sector": "Sektor III - Hulu",
+      "organ": "Perkaria",
+      "ageCategory": "Dewasa (31-59)",
+      "status": "Aktif",
+      "joinedYear": 2010,
+      "noKk": "6503041008100002",
+      "noNik": "6503041209740001",
+      "birthPlace": "Data Dian",
+      "familyRelationship": "Kepala Keluarga",
+      "baptismStatus": "Sudah Baptis"
+    },
+    {
+      "id": "mem-5",
+      "fullName": "Ibu Dina Lenjau",
+      "gender": "P",
+      "birthDate": "1977-11-19",
+      "weddingDate": "2001-11-14",
+      "spouseName": "Bpk. Andreas Lawing",
+      "phone": "081347221905",
+      "sector": "Sektor III - Hulu",
+      "organ": "Perkawan",
+      "ageCategory": "Dewasa (31-59)",
+      "status": "Aktif",
+      "joinedYear": 2010,
+      "noKk": "6503041008100002",
+      "noNik": "6503045911770002",
+      "birthPlace": "Sungai Barang",
+      "familyRelationship": "Istri",
+      "baptismStatus": "Sudah Baptis"
+    },
+    {
+      "id": "mem-6",
+      "fullName": "Opa Petrus Ubung",
+      "gender": "L",
+      "birthDate": "1958-11-16",
+      "weddingDate": "1984-06-21",
+      "spouseName": "Oma Naomi Lawai",
+      "phone": "082155904411",
+      "sector": "Sektor I - Hilir",
+      "organ": "Lansia",
+      "ageCategory": "Lansia (60+)",
+      "status": "Aktif",
+      "joinedYear": 1998,
+      "noKk": "6503040504980003",
+      "noNik": "6503041605580001",
+      "birthPlace": "Sungai Barang",
+      "familyRelationship": "Kepala Keluarga",
+      "baptismStatus": "Sudah Baptis"
+    },
+    {
+      "id": "mem-7",
+      "fullName": "Oma Naomi Lawai",
+      "gender": "P",
+      "birthDate": "1961-08-03",
+      "weddingDate": "1984-06-21",
+      "spouseName": "Opa Petrus Ubung",
+      "phone": "082155904412",
+      "sector": "Sektor I - Hilir",
+      "organ": "Lansia",
+      "ageCategory": "Lansia (60+)",
+      "status": "Aktif",
+      "joinedYear": 1998,
+      "noKk": "6503040504980003",
+      "noNik": "6503044308610002",
+      "birthPlace": "Long Sule",
+      "familyRelationship": "Istri",
+      "baptismStatus": "Sudah Baptis"
+    },
+    {
+      "id": "mem-8",
+      "fullName": "Sdr. Daniel Putra",
+      "gender": "L",
+      "birthDate": "1995-03-27",
+      "weddingDate": null,
+      "spouseName": null,
+      "phone": "081258883301",
+      "sector": "Sektor IV - Sungai Barang",
+      "organ": "Pemuda",
+      "ageCategory": "Pemuda (18-30)",
+      "status": "Aktif",
+      "joinedYear": 2016,
+      "noKk": "6503041502160005",
+      "noNik": "6503042703950001",
+      "birthPlace": "Malinau",
+      "familyRelationship": "Kepala Keluarga",
+      "baptismStatus": "Sudah Baptis"
+    },
+    {
+      "id": "mem-9",
+      "fullName": "Adik Samuel Apui",
+      "gender": "L",
+      "birthDate": "2016-05-14",
+      "weddingDate": null,
+      "spouseName": null,
+      "phone": "081254108811",
+      "sector": "Sektor I - Hilir",
+      "organ": "Sekolah Minggu",
+      "ageCategory": "Anak (0-12)",
+      "status": "Aktif",
+      "joinedYear": 2021,
+      "noKk": "6503041205120001",
+      "noNik": "6503041405160003",
+      "birthPlace": "Sungai Barang",
+      "familyRelationship": "Anak",
+      "baptismStatus": "Belum Baptis"
+    },
+    {
+      "id": "mem-10",
+      "fullName": "Adik Clara Jelita",
+      "gender": "P",
+      "birthDate": "2011-11-19",
+      "weddingDate": null,
+      "spouseName": null,
+      "phone": "081347221904",
+      "sector": "Sektor III - Hulu",
+      "organ": "Remaja",
+      "ageCategory": "Remaja (13-17)",
+      "status": "Aktif",
+      "joinedYear": 2019,
+      "noKk": "6503041008100002",
+      "noNik": "6503045911110003",
+      "birthPlace": "Sungai Barang",
+      "familyRelationship": "Anak",
+      "baptismStatus": "Belum Baptis"
+    },
+    {
+      "id": "mem-11",
+      "fullName": "Ibu Ruth Marbun",
+      "gender": "P",
+      "birthDate": "1982-12-09",
+      "weddingDate": "2009-07-17",
+      "spouseName": "Bpk. Samuel Marbun",
+      "phone": "081349001122",
+      "sector": "Sektor II - Tengah",
+      "organ": "Perkawan",
+      "ageCategory": "Dewasa (31-59)",
+      "status": "Aktif",
+      "joinedYear": 2014,
+      "noKk": "6503042107140006",
+      "noNik": "6503044912820002",
+      "birthPlace": "Tanjung Selor",
+      "familyRelationship": "Istri",
+      "baptismStatus": "Sudah Baptis"
+    },
+    {
+      "id": "mem-12",
+      "fullName": "Adik Mikhael Ngau",
+      "gender": "L",
+      "birthDate": "2018-02-11",
+      "weddingDate": null,
+      "spouseName": null,
+      "phone": "085247889102",
+      "sector": "Sektor IV - Sungai Barang",
+      "organ": "Sekolah Minggu",
+      "ageCategory": "Anak (0-12)",
+      "status": "Aktif",
+      "joinedYear": 2023,
+      "noKk": "6503040809180004",
+      "noNik": "6503041102180004",
+      "birthPlace": "Sungai Barang",
+      "familyRelationship": "Anak",
+      "baptismStatus": "Belum Baptis"
+    }
+  ],
+  "leadership": [
+    {
+      "id": "bpj-1",
+      "name": "Pdt. Lukas H. Bangun, M.Th.",
+      "role": "Gembala Sidang",
+      "period": "2024 – 2028",
+      "phone": "081254009901",
+      "email": "gembala@gkiisungaibarang.or.id",
+      "photoUrl": "",
+      "responsibilities": [
+        "Memimpin pengajaran firman Tuhan, sakramen Baptisan & Perjamuan Kudus, serta penggembalaan jemaat.",
+        "Membimbing Badan Pengurus Jemaat dan majelis dalam visi pelayanan GKII Sungai Barang.",
+        "Melaksanakan konseling pastoral dan perkunjungan rohani kepada keluarga jemaat."
+      ],
+      "bio": "Melayani sebagai Gembala Sidang GKII Jemaat Sungai Barang sejak tahun 2019 dengan fokus pemuridan keluarga.",
+      "order": 1
+    },
+    {
+      "id": "bpj-2",
+      "name": "Sdr. Daniel Putra, S.Kom.",
+      "role": "Ketua Badan Pengurus Jemaat & Koordinator Pemuda",
+      "period": "2024 – 2028",
+      "phone": "081258883301",
+      "email": "ketua.bpj@gkiisungaibarang.or.id",
+      "photoUrl": "/src/assets/images/leader_portrait_male_2_1794621190137.jpg",
+      "responsibilities": [
+        "Mengkoordinasikan rapat rutin Badan Pengurus Jemaat dan pelaksanaan program kerja tahunan.",
+        "Mengawasi sinergi antar organ pelayanan (Perkaria, Perkawan, Pemuda, dan Sekolah Minggu).",
+        "Mewakili jemaat dalam koordinasi wilayah/daerah GKII dan hubungan kemasyarakatan."
+      ],
+      "bio": "Aktif membina generasi muda serta memodernisasi sistem administrasi dan informasi jemaat.",
+      "order": 2
+    },
+    {
+      "id": "bpj-3",
+      "name": "Ibu Ruth Marbun, S.E.",
+      "role": "Bendahara Jemaat",
+      "period": "2024 – 2028",
+      "phone": "081349001122",
+      "email": "bendahara@gkiisungaibarang.or.id",
+      "photoUrl": "/src/assets/images/leader_portrait_female_1_1794621188844.jpg",
+      "responsibilities": [
+        "Mencatat seluruh pemasukan persembahan, persepuluhan, dan pengeluaran kas secara transparan.",
+        "Menyusun laporan keuangan bulanan dan laporan pertanggungjawaban tahunan jemaat.",
+        "Mengelola penyaluran anggaran operasional, misi, pembangunan, dan diakonia."
+      ],
+      "bio": "Berpengalaman di bidang akuntansi dan melayani sebagai bendahara jemaat dengan prinsip akuntabilitas.",
+      "order": 3
+    },
+    {
+      "id": "bpj-4",
+      "name": "Ibu Martha Simanjuntak",
+      "role": "Sekretaris & Koordinator Diakonia / Perkawan",
+      "period": "2024 – 2028",
+      "phone": "082155117740",
+      "email": "sekretariat@gkiisungaibarang.or.id",
+      "photoUrl": "/src/assets/images/leader_portrait_female_2_1794621193639.jpg",
+      "responsibilities": [
+        "Mengelola surat-menyurat gereja, warta jemaat mingguan, dan pemutakhiran data anggota.",
+        "Mengkoordinasikan pelayanan Diakonia bagi lansia, jemaat sakit, serta berita sukacita/dukacita.",
+        "Mendampingi pembinaan persekutuan kaum wanita (Perkawan)."
+      ],
+      "bio": "Berdedikasi penuh dalam pelayanan sosial gereja dan pendataan keluarga jemaat di seluruh sektor.",
+      "order": 4
+    }
+  ],
+  "committees": [
+    {
+      "id": "com-1",
+      "name": "Panitia Perayaan Natal Jemaat 2026",
+      "eventDate": "2026-12-24",
+      "description": "Kepanitiaan gabungan untuk mempersiapkan Ibadah Malam Natal, Natal Anak Sekolah Minggu, dan Ramah Tamah Jemaat.",
+      "chairperson": "Sdr. Daniel Putra, S.Kom.",
+      "meetings": [
+        {
+          "id": "mtg-1",
+          "title": "Rapat Finalisasi Susunan Acara & Anggaran Seksi",
+          "dateTime": "2026-11-14T04:27",
+          "location": "Ruang Konsistori GKII Sungai Barang",
+          "agenda": "Finalisasi liturgi Natal, konfirmasi pengisi pujian, serta verifikasi anggaran konsumsi dan dekorasi.",
+          "reminderMinutesBefore": 120,
+          "status": "Terjadwal",
+          "attendeesNote": "Wajib dihadiri seluruh koordinator seksi dan BPH Panitia."
+        },
+        {
+          "id": "mtg-2",
+          "title": "Rapat Teknis Perlengkapan & Tata Panggung",
+          "dateTime": "2026-11-15T18:30",
+          "location": "Gedung Gereja Utama",
+          "agenda": "Pengecekan sound system, pencahayaan panggung, serta jadwal dekorasi pohon Natal.",
+          "reminderMinutesBefore": 1440,
+          "status": "Terjadwal",
+          "attendeesNote": "Seksi Perlengkapan, Multimedia, dan Musik."
+        }
+      ],
+      "tasks": [
+        {
+          "id": "tsk-1",
+          "title": "Menyusun tata ibadah & liturgi malam Natal",
+          "section": "Acara & Ibadah",
+          "assignee": "Pdt. Lukas H. Bangun",
+          "deadline": "2026-11-19",
+          "status": "Proses",
+          "notes": "Koordinasi dengan pemimpin pujian dan tim tamborin."
+        },
+        {
+          "id": "tsk-2",
+          "title": "Pengadaan paket bingkisan Natal anak Sekolah Minggu",
+          "section": "Konsumsi",
+          "assignee": "Ibu Martha Simanjuntak",
+          "deadline": "2026-12-15",
+          "status": "Belum Mulai",
+          "notes": "Estimasi 55 paket anak."
+        },
+        {
+          "id": "tsk-3",
+          "title": "Pengecekan mic wireless & kabel audio altar",
+          "section": "Perlengkapan & Dekorasi",
+          "assignee": "Sdr. Daniel Putra",
+          "deadline": "2026-11-16",
+          "status": "Selesai",
+          "notes": "Sudah diuji coba dan siap digunakan."
+        }
+      ]
+    },
+    {
+      "id": "com-2",
+      "name": "Panitia Renovasi Ruang Pelayanan Anak",
+      "eventDate": "2026-12-10",
+      "description": "Kepanitiaan khusus perbaikan atap, ventilasi, serta pengecatan ruang kelas Sekolah Minggu.",
+      "chairperson": "Bpk. Yohanes Kiding",
+      "meetings": [
+        {
+          "id": "mtg-3",
+          "title": "Evaluasi Progres Pekerjaan Atap & RAB Material",
+          "dateTime": "2026-11-19T19:00",
+          "location": "Ruang Pelayanan Anak",
+          "agenda": "Cek laporan belanja cat dan plafon bersama Bendahara Jemaat.",
+          "reminderMinutesBefore": 1440,
+          "status": "Terjadwal",
+          "attendeesNote": "Tim Teknis Bangunan & Bendahara."
+        }
+      ],
+      "tasks": [
+        {
+          "id": "tsk-4",
+          "title": "Survei harga seng gelombang & cat tembok tahan cuaca",
+          "section": "Perlengkapan & Dekorasi",
+          "assignee": "Bpk. Yohanes Kiding",
+          "deadline": "2026-11-16",
+          "status": "Selesai"
+        },
+        {
+          "id": "tsk-5",
+          "title": "Penjadwalan kerja bakti pengecatan bersama Perkaria",
+          "section": "Dana & Usaha",
+          "assignee": "Bpk. Andreas Lawing",
+          "deadline": "2026-11-19",
+          "status": "Proses"
+        }
+      ]
+    }
+  ],
+  "growthSeries": [
+    {
+      "period": "2023",
+      "granularity": "tahunan",
+      "byOrgan": {
+        "Perkaria": 46,
+        "Perkawan": 52,
+        "Sekolah Minggu": 38,
+        "Remaja": 18,
+        "Pemuda": 26,
+        "Lansia": 22
+      },
+      "byAge": {
+        "Anak (0-12)": 38,
+        "Remaja (13-17)": 19,
+        "Pemuda (18-30)": 35,
+        "Dewasa (31-59)": 88,
+        "Lansia (60+)": 22
+      },
+      "total": 202
+    },
+    {
+      "period": "2024",
+      "granularity": "tahunan",
+      "byOrgan": {
+        "Perkaria": 50,
+        "Perkawan": 58,
+        "Sekolah Minggu": 43,
+        "Remaja": 21,
+        "Pemuda": 30,
+        "Lansia": 25
+      },
+      "byAge": {
+        "Anak (0-12)": 43,
+        "Remaja (13-17)": 22,
+        "Pemuda (18-30)": 41,
+        "Dewasa (31-59)": 96,
+        "Lansia (60+)": 25
+      },
+      "total": 227
+    },
+    {
+      "period": "2025",
+      "granularity": "tahunan",
+      "byOrgan": {
+        "Perkaria": 55,
+        "Perkawan": 64,
+        "Sekolah Minggu": 49,
+        "Remaja": 23,
+        "Pemuda": 35,
+        "Lansia": 28
+      },
+      "byAge": {
+        "Anak (0-12)": 49,
+        "Remaja (13-17)": 25,
+        "Pemuda (18-30)": 47,
+        "Dewasa (31-59)": 105,
+        "Lansia (60+)": 28
+      },
+      "total": 254
+    },
+    {
+      "period": "2026",
+      "granularity": "tahunan",
+      "byOrgan": {
+        "Perkaria": 61,
+        "Perkawan": 70,
+        "Sekolah Minggu": 56,
+        "Remaja": 26,
+        "Pemuda": 40,
+        "Lansia": 32
+      },
+      "byAge": {
+        "Anak (0-12)": 56,
+        "Remaja (13-17)": 29,
+        "Pemuda (18-30)": 53,
+        "Dewasa (31-59)": 115,
+        "Lansia (60+)": 32
+      },
+      "total": 285
+    },
+    {
+      "period": "Q1 2026",
+      "granularity": "triwulan",
+      "byOrgan": {
+        "Perkaria": 56,
+        "Perkawan": 65,
+        "Sekolah Minggu": 50,
+        "Remaja": 24,
+        "Pemuda": 36,
+        "Lansia": 29
+      },
+      "byAge": {
+        "Anak (0-12)": 50,
+        "Remaja (13-17)": 26,
+        "Pemuda (18-30)": 48,
+        "Dewasa (31-59)": 107,
+        "Lansia (60+)": 29
+      },
+      "total": 260
+    },
+    {
+      "period": "Q2 2026",
+      "granularity": "triwulan",
+      "byOrgan": {
+        "Perkaria": 58,
+        "Perkawan": 67,
+        "Sekolah Minggu": 52,
+        "Remaja": 25,
+        "Pemuda": 37,
+        "Lansia": 30
+      },
+      "byAge": {
+        "Anak (0-12)": 52,
+        "Remaja (13-17)": 27,
+        "Pemuda (18-30)": 50,
+        "Dewasa (31-59)": 110,
+        "Lansia (60+)": 30
+      },
+      "total": 269
+    },
+    {
+      "period": "Q3 2026",
+      "granularity": "triwulan",
+      "byOrgan": {
+        "Perkaria": 59,
+        "Perkawan": 69,
+        "Sekolah Minggu": 54,
+        "Remaja": 25,
+        "Pemuda": 39,
+        "Lansia": 31
+      },
+      "byAge": {
+        "Anak (0-12)": 54,
+        "Remaja (13-17)": 28,
+        "Pemuda (18-30)": 51,
+        "Dewasa (31-59)": 113,
+        "Lansia (60+)": 31
+      },
+      "total": 277
+    },
+    {
+      "period": "Q4 2026",
+      "granularity": "triwulan",
+      "byOrgan": {
+        "Perkaria": 61,
+        "Perkawan": 70,
+        "Sekolah Minggu": 56,
+        "Remaja": 26,
+        "Pemuda": 40,
+        "Lansia": 32
+      },
+      "byAge": {
+        "Anak (0-12)": 56,
+        "Remaja (13-17)": 29,
+        "Pemuda (18-30)": 53,
+        "Dewasa (31-59)": 115,
+        "Lansia (60+)": 32
+      },
+      "total": 285
+    }
+  ],
+  "devotionals": [
+    {
+      "id": "dev-1",
+      "date": "2026-11-14",
+      "title": "Ditanam di Tepi Aliran Air Kehidupan",
+      "verseRef": "Mazmur 1:3",
+      "verseText": "Ia seperti pohon, yang ditanam di tepi aliran air, yang menghasilkan buahnya pada musimnya, dan yang tidak layu daunnya; apa saja yang diperbuatnya berhasil.",
+      "content": "Di tengah kesibukan ladang, pekerjaan, dan tanggung jawab keluarga di Sungai Barang, kita sering kali merasa kering secara rohani ketika hanya mengandalkan kekuatan sendiri. Pemazmur mengingatkan bahwa rahasia pohon yang daunnya selalu hijau bukanlah karena tidak pernah ada musim kemarau, melainkan karena akarnya tertanam dekat dengan aliran air.\n\nAliran air itu adalah firman Tuhan dan persekutuan yang intim bersama Kristus setiap hari. Ketika jemaat merenungkan firman-Nya siang dan malam, hidup kita dipelihara dari dalam—sehingga tetap menghasilkan buah kasih, kesabaran, dan pengharapan pada musimnya.",
+      "application": "Luangkan 10 menit pagi ini sebelum memulai aktivitas untuk membaca satu pasal Alkitab dan mendoakan satu anggota jemaat lainnya.",
+      "closingPrayer": "Tuhan Yesus, tanamkanlah hidup kami semakin dalam pada firman-Mu. Segarkan jiwa kami agar hari ini kami menjadi berkat bagi keluarga dan sesama di Sungai Barang. Amin.",
+      "author": "Pdt. Lukas H. Bangun, M.Th."
+    },
+    {
+      "id": "dev-2",
+      "date": "2026-11-13",
+      "title": "Kasih yang Nyata dalam Kebersamaan Jemaat",
+      "verseRef": "Galatia 6:2",
+      "verseText": "Bertolong-tolonganlah menanggung bebanmu! Demikianlah kamu memenuhi hukum Kristus.",
+      "content": "Gereja bukan sekadar gedung tempat kita berkumpul seminggu sekali, melainkan keluarga rohani yang saling menopang. Setiap kali kita mendoakan saudara yang sakit, membantu tetangga yang berkekurangan, atau melayani dengan tulus dalam kepanitiaan gereja, di situlah hukum Kristus menjadi nyata dan dapat dirasakan dunia.",
+      "application": "Sapa dan tanyakan kabar satu saudara seiman hari ini, baik secara langsung maupun melalui pesan singkat.",
+      "closingPrayer": "Bapa di surga, ajarlah kami memiliki hati yang peka untuk saling mengasihi dan menopang dalam persekutuan Jemaat Sungai Barang. Amin.",
+      "author": "Pdt. Lukas H. Bangun, M.Th."
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "title": "Ibadah Raya Minggu & Perjamuan Kudus",
+      "category": "Ibadah Raya",
+      "date": "2026-11-11",
+      "caption": "Suasana pujian penyembahan dan pelayanan firman Tuhan bersama seluruh jemaat di gedung gereja utama GKII Sungai Barang.",
+      "imageUrl": "/gallery/ibadah-raya.svg",
+      "capturedBy": "Ibu Martha Simanjuntak",
+      "createdAt": "2026-11-11T10:14:58.834Z"
+    },
+    {
+      "id": "gal-2",
+      "title": "Pembinaan Anak Sekolah Minggu & Kelas Tunas",
+      "category": "Sekolah Minggu & Remaja",
+      "date": "2026-11-08",
+      "caption": "Anak-anak Sekolah Minggu belajar cerita Alkitab, menghafal ayat emas, dan bernyanyi bersama tim guru Sekolah Minggu.",
+      "imageUrl": "/gallery/sekolah-minggu.svg",
+      "capturedBy": "Sdri. Gabriela Tika",
+      "createdAt": "2026-11-08T10:14:58.834Z"
+    },
+    {
+      "id": "gal-3",
+      "title": "Perkunjungan Diakonia & Pelayanan Kasih Sektor",
+      "category": "Diakonia & Baksos",
+      "date": "2026-11-04",
+      "caption": "Penyaluran bantuan diakonia dan doa penguatan bagi warga lansia serta keluarga jemaat yang sedang dalam pemulihan.",
+      "imageUrl": "/gallery/diakonia-kasih.svg",
+      "capturedBy": "Ibu Ruth Marbun, S.E.",
+      "createdAt": "2026-11-04T10:14:58.834Z"
+    },
+    {
+      "id": "gal-4",
+      "title": "Gotong Royong Pemeliharaan Halaman & Gedung Gereja",
+      "category": "Gotong Royong & Panitia",
+      "date": "2026-10-31",
+      "caption": "Kebersamaan jemaat Perkaria, Perkawan, dan Pemuda membersihkan halaman gereja serta menata ruang ibadah.",
+      "imageUrl": "/gallery/gotong-royong.svg",
+      "capturedBy": "Bpk. Yohanes Kiding",
+      "createdAt": "2026-10-31T10:14:58.834Z"
+    }
+  ],
+  "letters": [
+    {
+      "id": "let-1",
+      "letterType": "Surat Masuk",
+      "letterNumber": "048/PW-GKII-KT/XI/2026",
+      "letterDate": "2026-11-08",
+      "subject": "Undangan Rapat Kerja Wilayah & Pembinaan Majelis GKII Kalimantan Utara",
+      "status": "Ditindaklanjuti",
+      "sender": "Pengurus Wilayah GKII Kalimantan Utara",
+      "receivedDate": "2026-11-11",
+      "disposition": "Diteruskan ke Gembala Sidang & BPJ untuk penunjukan 2 utusan jemaat.",
+      "notes": "Mohon konfirmasi daftar utusan paling lambat minggu depan.",
+      "physicalPhotos": [],
+      "recordedBy": "Ibu Martha Simanjuntak",
+      "createdAt": "2026-11-11T13:28:33.973Z"
+    },
+    {
+      "id": "let-2",
+      "letterType": "Surat Keluar",
+      "letterNumber": "024/GKII-SB/SKel/XI/2026",
+      "letterDate": "2026-11-11",
+      "subject": "Surat Pengantar Bantuan Diakonia & Pelayanan Kasih Sektor Hilir",
+      "status": "Selesai",
+      "recipient": "Pemerintah Desa Sungai Barang & Majelis Sektor I",
+      "signer": "Pdt. Lukas H. Bangun, M.Th. & Ibu Martha Simanjuntak",
+      "notes": "Sudah dikirimkan bersamaan dengan tim Diakonia dan dokumentasi penyaluran.",
+      "physicalPhotos": [],
+      "recordedBy": "Ibu Martha Simanjuntak",
+      "createdAt": "2026-11-11T13:28:33.973Z"
+    },
+    {
+      "id": "let-3",
+      "letterType": "Surat Keputusan",
+      "letterNumber": "007/GKII-SB/SK/X/2026",
+      "letterDate": "2026-10-05",
+      "subject": "Pengangkatan Panitia Natal Jemaat GKII Sungai Barang Tahun 2026",
+      "status": "Arsip Aktif",
+      "effectiveDate": "2026-10-05",
+      "validityPeriod": "Oktober – Desember 2026",
+      "signer": "Pdt. Lukas H. Bangun, M.Th.",
+      "notes": "Menetapkan Bpk. Yohanes Kiding sebagai Ketua Panitia beserta susunan seksi acara, konsumsi, dan perlengkapan.",
+      "physicalPhotos": [],
+      "recordedBy": "Ibu Martha Simanjuntak",
+      "createdAt": "2026-10-05T09:00:00.000Z"
+    },
+    {
+      "id": "let-4",
+      "letterType": "Surat Nikah",
+      "letterNumber": "012/GKII-SB/SN/IX/2026",
+      "letterDate": "2026-09-19",
+      "subject": "Surat Keterangan Pemberkatan Nikah Kudus",
+      "status": "Selesai",
+      "groomName": "Bpk. Andreas Lawing",
+      "brideName": "Ibu Esther Tika",
+      "ceremonyLocation": "Gedung Gereja Utama GKII Jemaat Sungai Barang",
+      "officiant": "Pdt. Lukas H. Bangun, M.Th.",
+      "witnesses": "Bpk. Yohanes Kiding & Ibu Martha Simanjuntak",
+      "notes": "Pemberkatan nikah kudus telah dilaksanakan dengan tertib dan dicatatkan pada arsip gereja.",
+      "physicalPhotos": [],
+      "recordedBy": "Ibu Martha Simanjuntak",
+      "createdAt": "2026-09-19T11:00:00.000Z"
+    },
+    {
+      "id": "let-5",
+      "letterType": "Surat Baptis",
+      "letterNumber": "018/GKII-SB/SB/VIII/2026",
+      "letterDate": "2026-08-16",
+      "subject": "Piagam Baptisan Air Kudus",
+      "status": "Selesai",
+      "baptizedName": "Sdri. Gabriela Tika",
+      "birthInfo": "Sungai Barang, 12 April 2005",
+      "parentsName": "Bpk. Samuel Tika & Ibu Maria L.",
+      "ceremonyLocation": "Sungai Barang / Kolam Pembaptisan GKII Sungai Barang",
+      "officiant": "Pdt. Lukas H. Bangun, M.Th.",
+      "notes": "Telah mengikuti katekisasi baptisan selama 8 pertemuan sebelum pembaptisan.",
+      "physicalPhotos": [],
+      "recordedBy": "Ibu Martha Simanjuntak",
+      "createdAt": "2026-08-16T10:00:00.000Z"
+    },
+    {
+      "id": "let-6",
+      "letterType": "Surat Persembahan Anak",
+      "letterNumber": "009/GKII-SB/SPA/VII/2026",
+      "letterDate": "2026-07-12",
+      "subject": "Surat Penyerahan / Persembahan Anak Kepada Tuhan",
+      "status": "Selesai",
+      "childName": "Adik Naomi Kiding",
+      "birthInfo": "Sungai Barang, 14 Mei 2026",
+      "fatherName": "Bpk. Yohanes Kiding",
+      "motherName": "Ibu Damaris Lawing",
+      "ceremonyLocation": "Ibadah Raya Minggu GKII Jemaat Sungai Barang",
+      "officiant": "Pdt. Lukas H. Bangun, M.Th.",
+      "notes": "Didoakan dan diserahkan dalam ibadah raya minggu bersama kedua orang tua.",
+      "physicalPhotos": [],
+      "recordedBy": "Ibu Martha Simanjuntak",
+      "createdAt": "2026-07-12T09:30:00.000Z"
+    }
+  ],
+  "churchIdentity": {
+    "kicker": "Identitas Resmi · Injil Empat Berganda",
+    "heading": "Logo Gereja Kemah Injil Indonesia (GKII)",
+    "description": "Lambang resmi GKII Jemaat Sungai Barang yang memuat empat simbol pokok Injil Empat Berganda dan dapat diunduh untuk keperluan surat, warta cetak, maupun spanduk pelayanan.",
+    "churchName": "Gereja Kemah Injil Indonesia",
+    "subLabel": "Jemaat Sungai Barang · Injil Empat Berganda",
+    "logoUrl": "/assets/aistudio/Logo_GKII_Warna_adc8a1a7.png",
+    "symbols": [
+      {
+        "id": "salib",
+        "symbolName": "Salib",
+        "title": "Yesus Kristus Juruselamat Kita",
+        "verseRef": "Kisah Para Rasul 4:12",
+        "meaning": "Melambangkan pengorbanan Kristus di kayu salib untuk menebus dosa manusia dan menganugerahkan keselamatan kekal."
+      },
+      {
+        "id": "kendi",
+        "symbolName": "Buli-Buli Minyak (Kendi)",
+        "title": "Yesus Kristus Penyembuh Kita",
+        "verseRef": "Yakobus 5:15",
+        "meaning": "Melambangkan urapan minyak dan kuasa pemulihan Tuhan Yesus bagi tubuh yang sakit maupun jiwa yang lemah."
+      },
+      {
+        "id": "cawan",
+        "symbolName": "Bejana Pembasuhan (Cawan)",
+        "title": "Yesus Kristus Pengudus Kita",
+        "verseRef": "2 Petrus 1:3",
+        "meaning": "Melambangkan kekudusan hidup yang dikerjakan oleh kuasa Roh Kudus dan firman Tuhan dalam perjalanan iman orang percaya."
+      },
+      {
+        "id": "mahkota",
+        "symbolName": "Mahkota",
+        "title": "Yesus Kristus Raja yang Akan Datang",
+        "verseRef": "Markus 14:62",
+        "meaning": "Melambangkan pengharapan kedatangan Yesus Kristus kembali sebagai Raja segala raja dan Hakim yang mulia."
+      }
+    ],
+    "updatedBy": "Ibu Martha Simanjuntak",
+    "updatedAt": "2026-11-14T13:34:44.549Z"
+  },
+  "siteContent": {
+    "appTitle": "GKII Sungai Barang",
+    "appSubtitle": "Portal Jemaat & Pelayanan",
+    "footerOrg": "Gereja Kemah Injil Indonesia (GKII) · Jemaat Sungai Barang",
+    "footerMotto": "Melayani dengan Kasih, Kebenaran, dan Ketertiban",
+    "kopAddressLine": "Desa Sungai Barang, Kecamatan Kayan Selatan · Kabupaten Malinau · Kalimantan Utara",
+    "kopRegionLine": "Pelayanan Jemaat · GKII Daerah Kalimantan Utara",
+    "navLabels": {
+      "beranda": "Beranda",
+      "ibadah": "Ibadah, Warta & Doa",
+      "renungan": "Renungan Harian",
+      "kas": "Kas & Pembukuan",
+      "jemaat": "Data Jemaat & HUT",
+      "pertumbuhan": "Pertumbuhan Jemaat",
+      "pengurus": "Badan Pengurus",
+      "kepanitiaan": "Kepanitiaan",
+      "surat": "Arsip & Surat"
+    },
+    "heroEyebrow": "Gereja Kemah Injil Indonesia · Jemaat Sungai Barang",
+    "heroTitle": "Portal Pelayanan, Persekutuan, dan Administrasi Jemaat",
+    "heroSubtitle": "Akses terpadu untuk jadwal ibadah, warta gereja, panduan doa harian, pembukuan kas jemaat secara transparan, serta pengingat ulang tahun dan rapat kepanitiaan secara langsung.",
+    "heroLocationLabel": "Desa Sungai Barang · Kalimantan",
+    "heroBadgeCode": "GKII",
+    "organHeading": "Jumlah Jemaat per Organ Pelayanan",
+    "organSubtitle": "Rekapitulasi jumlah Perkaria, Perkawan, Sekolah Minggu, Remaja, Pemuda, dan Lansia.",
+    "organSubtitles": {
+      "Perkaria": "Kaum Bapak",
+      "Perkawan": "Kaum Ibu",
+      "Sekolah Minggu": "Anak",
+      "Remaja": "Usia 13–17 th",
+      "Pemuda": "Usia 18–30 th",
+      "Lansia": "Usia 60+ th"
+    },
+    "notifTitle": "Notifikasi Otomatis Hari Ini",
+    "notifSubtitle": "Pembaruan langsung ulang tahun jemaat, pernikahan, dan pengingat rapat panitia.",
+    "galleryKicker": "Dokumentasi Visual Pelayanan",
+    "galleryTitle": "Galeri Kegiatan Gereja",
+    "gallerySubtitle": "Dokumentasi ibadah raya, pembinaan organ pelayanan, diakonia, dan kebersamaan Jemaat Sungai Barang.",
+    "sections": {
+      "ibadahTitle": "Jadwal Ibadah, Warta Gereja & Doa Harian",
+      "ibadahSubtitle": "Pusat informasi peribadahan mingguan, warta jemaat resmi, dan dukungan doa harian GKII Sungai Barang.",
+      "renunganTitle": "Renungan Harian & Berbagi Media Sosial",
+      "renunganSubtitle": "Baca firman Tuhan setiap hari dan bagikan langsung ke WhatsApp, Facebook, X, Telegram, atau kartu gambar.",
+      "kasTitle": "Kas, Pembukuan & Laporan Keuangan",
+      "kasSubtitle": "Pencatatan pemasukan dan pengeluaran yang transparan, tertib, dan dapat dicetak dalam laporan bulanan maupun tahunan.",
+      "jemaatTitle": "Data Jemaat, Ulang Tahun & Pernikahan",
+      "jemaatSubtitle": "Buku induk jemaat (KK, NIK, kelahiran, hubungan keluarga, pernikahan, & baptisan) serta pengingat hari spesial secara langsung.",
+      "pertumbuhanTitle": "Grafik Pertumbuhan Jemaat Berkala",
+      "pertumbuhanSubtitle": "Statistik perkembangan jumlah jiwa berdasarkan Organ Pelayanan dan Kategori Usia di GKII Sungai Barang.",
+      "pengurusTitle": "Badan Pengurus Jemaat (BPJ)",
+      "pengurusSubtitle": "Profil pengurus GKII Jemaat Sungai Barang lengkap dengan tanggung jawab pelayanan dan kontak yang dapat dihubungi.",
+      "kepanitiaanTitle": "Kepanitiaan, Jadwal Rapat & Tugas",
+      "kepanitiaanSubtitle": "Pengaturan panitia pelayanan, pengingat jadwal rapat otomatis, serta pembagian tugas tiap seksi.",
+      "suratTitle": "Arsip Surat, Sakramen & Foto Fisik Surat",
+      "suratSubtitle": "Kelola Surat Masuk, Surat Keluar, Surat Keputusan, Surat Nikah, Surat Baptis, Surat Persembahan Anak, dan arsip foto dokumen fisik."
+    }
+  }
+}

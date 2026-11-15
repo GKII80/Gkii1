@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Dokumentasi Pelayanan Sekolah Minggu dan Remaja GKII Sungai Barang">
+  <rect width="800" height="600" fill="#F5F9F6"/>
+  <!-- Classroom board -->
+  <rect x="170" y="95" width="460" height="210" rx="14" fill="#FFFFFF" stroke="#B8D4C1" stroke-width="4"/>
+  <rect x="190" y="115" width="420" height="170" rx="8" fill="#EAF3EC"/>
+  <!-- Open Bible illustration on board -->
+  <path d="M400 160 C360 145 315 150 285 165 V245 C315 232 360 228 400 245 C440 228 485 232 515 245 V165 C485 150 440 145 400 160 Z" fill="#FFFFFF" stroke="#146C43" stroke-width="3"/>
+  <line x1="400" y1="160" x2="400" y2="245" stroke="#146C43" stroke-width="3"/>
+  <circle cx="400" cy="136" r="14" fill="#B45309" opacity="0.85"/>
+  <!-- Floor -->
+  <rect x="0" y="450" width="800" height="150" fill="#DCECE1"/>
+  <!-- Sunday school teacher -->
+  <circle cx="155" cy="270" r="28" fill="#0F5132"/>
+  <path d="M105 395 C105 320 205 320 205 395 V465 H105 Z" fill="#146C43"/>
+  <!-- Children gathered happily -->
+  <g fill="#198754">
+    <circle cx="305" cy="360" r="22"/><path d="M270 465 C270 415 340 415 340 465 Z"/>
+    <circle cx="395" cy="355" r="22"/><path d="M360 465 C360 412 430 412 430 465 Z"/>
+    <circle cx="485" cy="360" r="22"/><path d="M450 465 C450 415 520 415 520 465 Z"/>
+    <circle cx="575" cy="358" r="22"/><path d="M540 465 C540 415 610 415 610 465 Z"/>
+  </g>
+  <!-- Acoustic guitar silhouette on side -->
+  <ellipse cx="678" cy="380" rx="28" ry="36" fill="#B45309" opacity="0.85"/>
+  <rect x="673" y="285" width="10" height="65" rx="3" fill="#78350F"/>
+</svg>

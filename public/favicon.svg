@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Logo GKII">
+  <circle cx="60" cy="60" r="56" fill="#146C43" stroke="#0F5132" stroke-width="4"/>
+  <circle cx="60" cy="60" r="48" fill="#FFFFFF" stroke="#C89B3C" stroke-width="2.5"/>
+  <!-- Globe lines -->
+  <ellipse cx="60" cy="60" rx="22" ry="44" fill="none" stroke="#D4E4D8" stroke-width="1.4"/>
+  <line x1="16" y1="60" x2="104" y2="60" stroke="#D4E4D8" stroke-width="1.4"/>
+  <!-- Mahkota (Top) -->
+  <path d="M44 33 L47 21 L54 27 L60 18 L66 27 L73 21 L76 33 Z" fill="#C89B3C" stroke="#8A6112" stroke-width="1.4" stroke-linejoin="round"/>
+  <rect x="44" y="33" width="32" height="4.5" rx="1.5" fill="#B45309"/>
+  <!-- Salib (Center) -->
+  <rect x="55.5" y="40" width="9" height="58" rx="2" fill="#0F5132"/>
+  <rect x="38" y="52" width="44" height="8.5" rx="2" fill="#0F5132"/>
+  <!-- Bejana Pembasuhan / Kendi (Left) -->
+  <path d="M25 69 H45 L41 79 H29 Z" fill="#146C43"/>
+  <rect x="33" y="79" width="4" height="6" fill="#0F5132"/>
+  <rect x="28" y="85" width="14" height="3.5" rx="1.5" fill="#0F5132"/>
+  <ellipse cx="35" cy="69" rx="10" ry="2.2" fill="#C89B3C"/>
+  <!-- Buli-Buli Minyak / Cawan (Right) -->
+  <path d="M81 67 H89 L88 71 C92 73 93 81 89 85 H81 C77 81 78 73 82 71 Z" fill="#C89B3C" stroke="#8A6112" stroke-width="1.2"/>
+  <path d="M89 72 C95 72 95 81 90 82" fill="none" stroke="#8A6112" stroke-width="1.8" stroke-linecap="round"/>
+  <rect x="79" y="85" width="12" height="3.5" rx="1.5" fill="#8A6112"/>
+</svg>
